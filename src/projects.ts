@@ -1,8 +1,9 @@
+import gaUniversal from "../public/ga_universal_catalog.png";
 export const projects = [
   {
     name: "Universal eGift Catalog",
     link: "https://shop.giftaway.ph/collections/universal#/?value=500",
-    imgSrc: "/ga_universal_catalog.png",
+    imgSrc: gaUniversal,
     github: null,
     techStacks: "HTML, CSS, Typescript, Vue 3, TailwindCSS",
     overview:
